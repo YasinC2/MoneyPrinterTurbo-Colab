@@ -20,4 +20,4 @@ materials, video subtitles, and video background music before synthesizing a hig
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harry0703/MoneyPrinterTurbo/blob/main/docs/MoneyPrinterTurbo.ipynb)
 
 #### Edited Colab based on lytuan123 fork [► this repo](https://github.com/lytuan123/MoneyPrinterTurbo)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harry0703/MoneyPrinterTurbo/blob/main/docs/MoneyPrinterTurbo.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YasinC2/MoneyPrinterTurbo-Colab/blob/main/makevideo_colab.ipynb)
